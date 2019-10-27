@@ -7,8 +7,11 @@
 ![markdown](https://github.com/yuhuison/LiveWaifuDesktop/blob/master/exp.png)
 # UNDER CONTRUCTION
 **本项目仍在建设中**
+
 敬请期待
+
 和 LIVE2DVIEW(EX)使用Unity的不同
+
 本项目基于 LIVE2D NATIVE SDK 开发 ,拥有卓越(最高 ?)的性能
 
 
