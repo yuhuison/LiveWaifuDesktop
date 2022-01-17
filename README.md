@@ -8,6 +8,7 @@
 ![markdown](https://github.com/yuhuison/LiveWaifuDesktop/blob/master/exp.png)
 # UNDER CONTRUCTION
 **本项目仍在建设中**
+**建议大家先使用LiveWaifuCore: https://github.com/yuhuison/LiveWaifuCore**
 
 敬请期待
 
